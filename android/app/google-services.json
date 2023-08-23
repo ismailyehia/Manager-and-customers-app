@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583626956179",
+    "project_id": "apinotif-facb2",
+    "storage_bucket": "apinotif-facb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583626956179:android:1b338a37f39aeca272dc66",
+        "android_client_info": {
+          "package_name": "com.example.api_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583626956179-o1g801f3n0ocu4bk77qovjrrr424pokp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIcSbdspkAjA5InZb5JBDqlRbu3eh7Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583626956179-o1g801f3n0ocu4bk77qovjrrr424pokp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
